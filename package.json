@@ -1,0 +1,22 @@
+{
+  "name": "manas-theme",
+  "displayName": "manas-theme",
+  "description": "Themes I like for coding",
+  "version": "0.0.1",
+  "publisher": "ManasMishra",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "manas-theme\\",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manas-theme-color-theme.json"
+      }
+    ]
+  }
+}
