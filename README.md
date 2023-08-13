@@ -1,6 +1,6 @@
-# manas-theme README
+# README
 
-## Working with Markdown
+## This is the README for your extension "Manas-Mishra-Theme"
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 

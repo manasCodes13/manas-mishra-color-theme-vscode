@@ -4,6 +4,19 @@
   "description": "Themes I like for coding",
   "version": "0.0.1",
   "publisher": "ManasMishra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manasCodes13/manas-mishra-color-theme-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "manas mishra themes",
+    "manas mishra",
+    "manas",
+    "manasmishratheme",
+    "manastheme"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
